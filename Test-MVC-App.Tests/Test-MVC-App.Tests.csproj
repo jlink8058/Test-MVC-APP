@@ -97,7 +97,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Test-MVC-App.csproj">
+    <ProjectReference Include="..\Test-MVC-App\Test-MVC-App.csproj">
       <Project>{44BE1A8A-5DF0-4EFB-A2A4-5E66D319D8B7}</Project>
       <Name>Test-MVC-App</Name>
     </ProjectReference>
